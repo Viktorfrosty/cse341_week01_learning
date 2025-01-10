@@ -1,0 +1,12 @@
+# Node.js
+/node_modules
+
+# Enviroment
+.env
+
+# dev
+eslint.config.mjs
+.prettierrc
+playground-1.mongodb.js
+
+user.json
